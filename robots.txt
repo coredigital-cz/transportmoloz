@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debarasari-locuinte-mures-transport.com/sitemap.xml
